@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://rohitkumawat07.github.io/todo-app/",
+  "homepage": "https://rohitkumawat07.github.io/Todo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
